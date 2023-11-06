@@ -1,4 +1,3 @@
-# Analise_Pandas
 # Análise de Dados em Pandas 
 Esse projeto tem como foco fazer uma análise de dados utilizando a linguagem Python para a filtragem dos dados e a bibloteca Seaborn para a parte gráfica do projeto.
 
